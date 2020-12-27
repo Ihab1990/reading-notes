@@ -10,6 +10,7 @@ This specifies the path to the
 CSS file (which is often placed in
 a folder called css or styles).
 type
+<h3; color:red>
 This attribute specifies the type
 of document being linked to. The
 value should be text/css.
@@ -18,7 +19,8 @@ This specifies the relationship
 between the HTML page and
 the file it is linked to. The value
 should be stylesheet when
-linking to a CSS file.
+linking to a CSS file. </h3>
+
 
 **rgb values**
 These express colors in terms
